@@ -1,0 +1,5 @@
+{
+  "name": "Dashboard Financeiro - Proteção Veicular",
+  "description": "Dashboard de KPIs financeiros para associações de proteção veicular, incluindo cálculos de ponto de equilíbrio, margem de contribuição e ticket médio.",
+  "requestFramePermissions": []
+}
